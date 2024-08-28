@@ -1,52 +1,45 @@
 {
-  "footer": [
-    {
-      "external": false,
-      "key": "home",
-      "path": "/"
-    },
-    {
-      "external": false,
-      "key": "imprint",
-      "path": "/imprint"
-    },
-    {
-      "external": false,
-      "key": "terms",
-      "path": "/terms"
-    }
-  ],
   "main": [
     {
-      "external": false,
       "key": "home",
-      "path": "/"
+      "path": "/",
+      "external": false
     },
     {
-      "external": false,
       "key": "accomodations",
-      "path": "/accomodations"
+      "path": "/accomodations",
+      "external": false
     },
     {
-      "acco": "e5cace58-d435-420f-a1dc-17e844469e7e",
+      "key": "af236089-b00d-4b21-8df0-fb115e00c5b6",
+      "path": "/accomodations/af236089-b00d-4b21-8df0-fb115e00c5b6",
+      "acco": "af236089-b00d-4b21-8df0-fb115e00c5b6",
       "external": false,
-      "key": "e5cace58-d435-420f-a1dc-17e844469e7e",
-      "path": "/accomodations/e5cace58-d435-420f-a1dc-17e844469e7e",
       "sub": true
     },
     {
-      "acco": "050edcb4-680e-4542-96df-3ae4a2af89a5",
+      "key": "dfa95942-25d2-4f23-95d5-36dfb25dc794",
+      "path": "/accomodations/dfa95942-25d2-4f23-95d5-36dfb25dc794",
+      "acco": "dfa95942-25d2-4f23-95d5-36dfb25dc794",
       "external": false,
-      "key": "050edcb4-680e-4542-96df-3ae4a2af89a5",
-      "path": "/accomodations/050edcb4-680e-4542-96df-3ae4a2af89a5",
       "sub": true
+    }
+  ],
+  "footer": [
+    {
+      "key": "home",
+      "path": "/",
+      "external": false
     },
     {
-      "acco": "83cd06fd-858d-4e21-994f-325778812713",
-      "external": false,
-      "key": "83cd06fd-858d-4e21-994f-325778812713",
-      "path": "/accomodations/83cd06fd-858d-4e21-994f-325778812713",
-      "sub": true
+      "key": "imprint",
+      "path": "/imprint",
+      "external": false
+    },
+    {
+      "key": "terms",
+      "path": "/terms",
+      "external": false
     }
   ]
 }
